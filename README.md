@@ -4,3 +4,4 @@ for i in range(0,10):
         for k in range(0,10):
             s+=1
 print(s)
+del
